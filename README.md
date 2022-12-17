@@ -1,9 +1,10 @@
 # Drinks-API
 >3000 alcoholic drinks api
 
+https://lg3gc7zrov3dqe5jsui4xuvgqe0lrujz.lambda-url.eu-west-1.on.aws/?drink=RANDOM
 
-base_url = https://lg3gc7zrov3dqe5jsui4xuvgqe0lrujz.lambda-url.eu-west-1.on.aws/?
 
+base_url = "https://lg3gc7zrov3dqe5jsui4xuvgqe0lrujz.lambda-url.eu-west-1.on.aws/?"
 
 <strong>Commands:</strong>
 
