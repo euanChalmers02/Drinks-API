@@ -10,15 +10,15 @@ base_url = "https://lg3gc7zrov3dqe5jsui4xuvgqe0lrujz.lambda-url.eu-west-1.on.aws
 
 Returns all the drinks
 
-base_url+"drink=ALL"
+<code> base_url+"drink=ALL"</code>
 
 Returns a random drink
 
-base_url+"drink=RANDOM"
+<code>base_url+"drink=RANDOM"</code>
 
-Returns the drink or empty array if non exists
+Returns a specific drink or empty array if non exists
 
-base_url+"drink=<<DRINK>>"
+<code>base_url+"drink=<<DRINK>>"</code>
 
 
 **Please be courtious when using the api**
