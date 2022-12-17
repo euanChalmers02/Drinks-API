@@ -1,6 +1,7 @@
 # Drinks-API
 >3000 alcoholic drinks api
 
+For a random drink (note use batch rquest for large requests)
 https://lg3gc7zrov3dqe5jsui4xuvgqe0lrujz.lambda-url.eu-west-1.on.aws/?drink=RANDOM
 
 
@@ -19,6 +20,13 @@ Returns a random drink
 Returns a specific drink or empty array if non exists
 
 <code>base_url+"drink=<<DRINK>>"</code>
+
+
+<strong>Batch request:</strong>
+
+<code>base_url+"drink=[<<DRINK>>,<<DRINK>>,...,<<DRINK>>]"</code>
+
+
 
 
 **Please be courtious when using the api**
