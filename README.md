@@ -26,6 +26,18 @@ Returns a specific drink or empty array if non exists
 
 <code>base_url+"drink=[<<DRINK>>,<<DRINK>>,...,<<DRINK>>]"</code>
 
+---
+
+<h2>NEW FEATURES</h2>
+
+<strong>Random by type</strong>
+
+<code>base_url+"drink=RANDOMTYPE(<<TYPE HERE>>)"</code>
+
+
+<strong>See all types</strong>
+
+<code>base_url+"drink=SEETYPES"</code>
 
 
 
