@@ -39,6 +39,6 @@ Returns a specific drink or empty array if non exists
 
 <code>base_url+"drink=SEETYPES"</code>
 
-
+---
 
 **Please be courtious when using the api**
