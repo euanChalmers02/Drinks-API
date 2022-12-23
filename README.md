@@ -1,5 +1,21 @@
 # Drinks-API
->3000 alcoholic drinks api
+
+
+
+---
+<strong>Now a python package download the files in this repo and import the Drinks.py then run each function simialar to the api
+
+  getting started guide to come
+
+</strong>
+
+
+
+
+
+---
+
+ over 3000 alcoholic drinks api
 
 For a random drink (note use batch rquest for large requests)
 https://lg3gc7zrov3dqe5jsui4xuvgqe0lrujz.lambda-url.eu-west-1.on.aws/?drink=RANDOM
