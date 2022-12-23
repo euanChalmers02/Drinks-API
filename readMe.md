@@ -1,6 +1,4 @@
-A simple api that allows you to get drinks alcoholic drinks.
-
-
+Drinks-API
 3000 alcoholic drinks api
 
 For a random drink (note use batch rquest for large requests) 
